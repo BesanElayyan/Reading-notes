@@ -1,18 +1,15 @@
 # Reading-notes
+## Introduction
+**Greetings :)** My name is _Besan Elayyan_ and I'm 23 years old. I have a Bachelor degree in English Language & literature. I'm so glad to be part of this course and so esxcited to start coding! 
 
 
-## What is a Growth Mindset?
+## Table of content
 
-![growth mindset](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset.jpg)
+| file num    | Topic       |
+| ----------- | ----------- |
+| Read00    | _[Growth Mindset]()_|
+| Read021    |  What's Git? |
 
-A _**growth mindset**_ is basically about being creative and have the passion and the love of learning all the time. This type of mindset suggests that abilities can be developed by effort and intelligence. A _growthminded_ individual can have more opened pathways to creativity and possibility than a _fixedminded_ individual.
 
-
-## How to keep yourself in a _Growth mindset_?
-- Be realistic.
-- _Not yet_ is OK.
-- Stop seeking approval from others.
-- Pay attention to your words and thoughts.
-- Face your challenges bravely.
 
 
