@@ -7,8 +7,8 @@
 
 | file num    | Topic       |
 | ----------- | ----------- |
-| Read00    | _[Growth Mindset]()_|
-| Read021    |  What's Git? |
+| Read00    |[Grwoth Mindset] (https://besanelayyan.github.io/Reading-notes/Read00) |
+| Read01    |  What's Git? |
 
 
 
