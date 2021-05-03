@@ -1,3 +1,16 @@
+# What's HTML? _HyperText Markup Language_
+_**HTML**_ is a markup language that defines the structure of your content. _**HTML**_ consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
+
+
+
+## Anatomy of an _**HTML**_ element:
+![HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
+
+![HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)
+
+
+
+
 # Wireframing
 ## What is _**Wireframing**_?
 
@@ -30,15 +43,9 @@ _Wireframing_ is a practice which allows designers to define and plan the inform
 
 
 
-# What's HTML? _HyperText Markup Language_
-_**HTML**_ is a markup language that defines the structure of your content. _**HTML**_ consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
 
 
 
-## Anatomy of an _**HTML**_ element:
-![HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
-
-![HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)
 
 # Semantics
 In programming, _**Semantics**_ refers to the meaning of a piece of code.

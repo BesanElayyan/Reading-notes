@@ -9,5 +9,6 @@
 | ----------- | -----------                           |
 | Read00      |[Grwoth Mindset](https://besanelayyan.github.io/Reading-notes/Read00) |
 | Read01      |  [What's Git](https://besanelayyan.github.io/Reading-notes/Read01) |
+| Read02      | [What's HTML]()
 
 
