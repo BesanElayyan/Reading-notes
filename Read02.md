@@ -53,7 +53,7 @@ In programming, _**Semantics**_ refers to the meaning of a piece of code.
 
 ## Semantic elements
 These are some of the roughly 100 semantic elements available:
-<article> 
+"<article> 
 <aside>
 <details>
 <figcaption>
@@ -65,5 +65,5 @@ These are some of the roughly 100 semantic elements available:
 <nav>
 <section>
 <summary>
-<time>
+<time>"
 
