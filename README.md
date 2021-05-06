@@ -12,8 +12,5 @@
 | Read02      | [What's HTML](https://besanelayyan.github.io/Reading-notes/Read02) |
 | Read03      |  [What's CSS](https://besanelayyan.github.io/Reading-notes/Read03) |
 | Read04      | [JavaScript](https://besanelayyan.github.io/Reading-notes/Read04) |
-<<<<<<< HEAD
-| Read05      | [Logical Operators]()
-=======
->>>>>>> cdb1b6fb5a9e657d7aaf4851f11ec8d1eb4f0bf2
+| Read05      | [Logical Operators](https://besanelayyan.github.io/Reading-notes/Read05) |
 
