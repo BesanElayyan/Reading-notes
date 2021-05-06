@@ -16,13 +16,13 @@ Returns false if its single operand that can be converted to true; otherwise, re
 
 
 ## Loops and iteration
-### For statement
+### - For statement
 A for loop repeats until a specified condition evaluates to false.
 A for statement looks as follows:
 
 _**for ([initialExpression]; [conditionExpression]; [incrementExpression]) statement**_ 
 
-### While statement
+### - While statement
 A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
 
 _**while (condition)
