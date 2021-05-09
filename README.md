@@ -13,5 +13,5 @@
 | Read03      |  [What's CSS](https://besanelayyan.github.io/Reading-notes/Read03) |
 | Read04      | [JavaScript](https://besanelayyan.github.io/Reading-notes/Read04) |
 | Read05      | [Logical Operators](https://besanelayyan.github.io/Reading-notes/Read05) |
-| REad06      | [Functions]()
+| REad06      | [Functions](https://besanelayyan.github.io/Reading-notes/Read06) |
 
