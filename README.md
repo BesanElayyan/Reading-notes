@@ -20,7 +20,7 @@
 # Code 201 Reading Notes
 | file num  | Topic                           |
 | --------- | --------------------------------|
-| Read01-2  | [Introductory HTML and JavaScript]()|  
+| Read01-2  | [Introductory HTML and JavaScript](https://github.com/BesanElayyan/Reading-notes/blob/main/class-01.md)|  
 | Read02-2  |                                 |  
 | 3         |                                 |  
 | 4         |                                 |  

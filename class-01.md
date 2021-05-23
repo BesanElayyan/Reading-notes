@@ -41,22 +41,22 @@ a way to identify several elements as being different from the other elements on
 
 ## BLOCK ELEMENTS
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
-  Example: <h1>, <p>, <ul>, and <li>.
 
 ## INLINE ELEMENTS
 Some elements will always appear to continue on the same line as their neighbouring elements.
-  Example: <a>, <b>, <em>, and <img>.
+
 
 ## Grouping Text & Elements In a Block 
-- <div>
-- <span>
+- div
+- span
 
 ## IFRAMS
 An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 
 ## Information About Your Pages
-1. <meta>
-The <meta> element lives inside the <head> element and contains information about that web page.
+1. meta
+The meta element lives inside the head element and contains information about that web page.
+
 2. Escape characters are used to include special characters in your pages such as <, >, and ©.
 
 ## New Html5 Layout Elements
@@ -64,21 +64,21 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 new elements is so that web page authors can use them to help describe the structure of the page. 
 
 ## Headers & Footers
-The <header> and <footer> elements can be used for:
+The header and footer elements can be used for:
 - The main header or footer that appears at the top or bottom of every page on the site.
-- A header or footer for an individual <article> or <section> within the page.
+- A header or footer for an individual article or section within the page.
 
 ## NAVIGATION
-The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+The nav element is used to contain the major navigational blocks on the site such as the primary site navigation.
 
 ## ARTICLS 
-The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+The article element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
 ## SECTIONS
-The <section> element groups related content together, and typically each section would have its own heading.
+The section element groups related content together, and typically each section would have its own heading.
 
 ## HEADING GROUPS
-The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading. 
+The purpose of the hgroup element is to group together a set of one or more h1 through h6 elements so that they are treated as one single heading. 
 
 ## Figures
 It can be used to contain any content that is referenced from the main flow of an article (not just images). 
@@ -116,13 +116,17 @@ are used to help simplify the information you present.
 
 # INTRODUCTION
 ## How JavaScript makes web pages more interactive?
-1. ACCESS CONTENT            2. MODIFY CONTENT 
-3. PROGRAM RULES             4. REACT TO EVENTS 
+1. ACCESS CONTENT      
+2. MODIFY CONTENT 
+3. PROGRAM RULES             
+4. REACT TO EVENTS 
 
 # The ABC of Programming
 ## HOW A BROWSER SEES A WEB PAGE
 1: RECEIVE A PAGE AS HTML CODE 
+
 2: CREATE A MODEL OF THE PAGE AND STORE IT IN MEMORY
+
 3: USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN
 
 
