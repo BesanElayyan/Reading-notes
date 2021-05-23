@@ -14,7 +14,7 @@
 | Read04      | [JavaScript](https://besanelayyan.github.io/Reading-notes/Read04) |
 | Read05      | [Logical Operators](https://besanelayyan.github.io/Reading-notes/Read05) |
 | REad06      | [Functions](https://besanelayyan.github.io/Reading-notes/Read06) |
-<<<<<<< HEAD
+
 
 
 # Code 201 Reading Notes
