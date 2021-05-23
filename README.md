@@ -16,8 +16,6 @@
 | REad06      | [Functions](https://besanelayyan.github.io/Reading-notes/Read06) |
 <<<<<<< HEAD
 
-=======
->>>>>>> 6bed58343ec0b5576c18e1994ec946a95b2f33bd
 
 # Code 201 Reading Notes
 | file num  | Topic            |
