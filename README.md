@@ -22,7 +22,7 @@
 | --------- | --------------------------------|
 | Read01-2  | [Introductory HTML and JavaScript](https://github.com/BesanElayyan/Reading-notes/blob/main/class-01.md)|  
 | Read02-2  | [Basics of HTML, CSS & JS ](https://github.com/BesanElayyan/Reading-notes/blob/main/class-02.md)|  
-| 3         |                                 | 
+| Read03-2  | [HTML Lists, Control Flow with JS, and the CSS Box Model](df)                              | 
 | 4         |                                 |  
 | 5         |                                 |  
 | 6         |                                 |
