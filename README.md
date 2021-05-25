@@ -18,20 +18,20 @@
 
 
 # Code 201 Reading Notes
-| file num  | Topic                                                                                                  |
-| --------- | -------------------------------------------------------------------------------------------------------|
-| Read01-2  | [Introductory HTML and JavaScript](https://github.com/BesanElayyan/Reading-notes/blob/main/class-01.md)|  
-| Read02-2  | [Basics of HTML, CSS & JS ](https://github.com/BesanElayyan/Reading-notes/blob/main/class-02.md)       |  
-| Read03-2  | [HTML, JS, and CSS](https://github.com/BesanElayyan/Reading-notes/blob/main/class-03.md)               | 
-| 4         |                                 |  
-| 5         |                                 |  
-| 6         |                                 |
-| 7         |                                 |  
-| 8         |                                 |  
-| 9         |                                 |  
-| 10        |                                 |  
-| 11        |                                 |  
-| 12        |                                 |  
-| 13        |                                 |  
-| 14        |                                 |  
-| 15        |                                 |  
+| file num                     |                              Topic           |
+| -----------------------------|----------------------------------------------|
+| Read01-2                     | [Introductory HTML and JavaScript](https://github.com/BesanElayyan/Reading-notes/blob/main/class-01.md)                  |  
+| Read02-2                     | [Basics of HTML, CSS & JS ](https://github.com/BesanElayyan/Reading-notes/blob/main/class-02.md)                             |  
+| Read03-2                     | [HTML, JS, and CSS](https://github.com/BesanElayyan/Reading-notes/blob/main/class-03.md)                             | 
+| Read04-2                     | [HTML Links, JS Functions, CSS Layout]()     |  
+| 5                            |                                              |  
+| 6                            |                                              |
+| 7                            |                                              |  
+| 8                            |                                              |  
+| 9                            |                                              |  
+| 10                           |                                              |  
+| 11                           |                                              |  
+| 12                           |                                              |  
+| 13                           |                                              |  
+| 14                           |                                              |  
+| 15                           |                                              |  
