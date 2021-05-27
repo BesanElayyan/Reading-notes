@@ -20,11 +20,11 @@
 # Code 201 Reading Notes
 | file num                     |                              Topic           |
 | -----------------------------|----------------------------------------------|
-| Read01-2                     | [Introductory HTML and JavaScript](https://github.com/BesanElayyan/Reading-notes/blob/main/class-01.md)                             |  
-| Read02-2                     | [Basics of HTML, CSS & JS ](https://github.com/BesanElayyan/Reading-notes/blob/main/class-02.md)                             |  
-| Read03-2                     | [HTML, JS, and CSS](https://github.com/BesanElayyan/Reading-notes/blob/main/class-03.md)                                          | 
+| Read01-2                     | [Introductory HTML and JavaScript](https://github.com/BesanElayyan/Reading-notes/blob/main/class-01.md)                              |  
+| Read02-2                     | [Basics of HTML, CSS & JS ](https://github.com/BesanElayyan/Reading-notes/blob/main/class-02.md)                                   |  
+| Read03-2                     | [HTML, JS, and CSS](https://github.com/BesanElayyan/Reading-notes/blob/main/class-03.md)                                            | 
 | Read04-2                     | [HTML Links, JS Functions, CSS Layout](https://github.com/BesanElayyan/Reading-notes/blob/main/class-04.md)                         |  
-| 5                            |                                              |  
+| Read05-2                     | [Images, Color, Text](https://github.com/BesanElayyan/Reading-notes/blob/main/class-05.md)                                            |  
 | 6                            |                                              |
 | 7                            |                                              |  
 | 8                            |                                              |  
