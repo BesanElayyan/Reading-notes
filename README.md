@@ -25,7 +25,7 @@
 | Read03-2                     | [HTML, JS, and CSS](https://github.com/BesanElayyan/Reading-notes/blob/main/class-03.md)                                            | 
 | Read04-2                     | [HTML Links, JS Functions, CSS Layout](https://github.com/BesanElayyan/Reading-notes/blob/main/class-04.md)                         |  
 | Read05-2                     | [Images, Color, Text](https://github.com/BesanElayyan/Reading-notes/blob/main/class-05.md)                                            |  
-| 6                            |                                              |
+| Read06-2                     | [JS Object Literals](https://github.com/BesanElayyan/Reading-notes/blob/main/class-06.md)                                             |
 | 7                            |                                              |  
 | 8                            |                                              |  
 | 9                            |                                              |  
