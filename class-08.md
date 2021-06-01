@@ -23,3 +23,19 @@ CSS frameworks aim to make your life easier by providing the code for common tas
 - Grids help create professional and flexible designs.
 - CSS Frameworks provide rules for common tasks.
 - You can include multiple CSS files in one page.
+
+# Multible Style Sheets
+There are two ways to addmultiple style sheets to a page:
+
+1: Your HTML page can link to one style sheet and that stylesheet can use the @import rule to import other style sheets.
+
+2: In the HTML you can use a separate "<link>" element for each style sheet.
+
+# Multiple Style Sheets
+On this page you can see the other technique for including multiple style sheets. Inside the "<head>" element is a separate "<link>" element for each style sheet.
+
+- Grids help create professional and flexible designs.
+- CSS Frameworks provide rules for common tasks.
+- You can include multiple CSS files in one page.
+
+
