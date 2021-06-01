@@ -26,8 +26,8 @@
 | Read04-2                     | [HTML Links, JS Functions, CSS Layout](https://github.com/BesanElayyan/Reading-notes/blob/main/class-04.md)              |  
 | Read05-2                     | [Images, Color, Text](https://github.com/BesanElayyan/Reading-notes/blob/main/class-05.md)                               |  
 | Read06-2                     | [JS Object Literals](https://github.com/BesanElayyan/Reading-notes/blob/main/class-06.md)                                |
-| Read07-2                     | [HTML Tables; JS Constructor Functions](https://github.com/BesanElayyan/Reading-notes/blob/main/class-07.md))            |  
-| 8                            |                                              |  
+| Read07-2                     | [HTML Tables; JS Constructor Functions](https://github.com/BesanElayyan/Reading-notes/blob/main/class-07.md)           |  
+| Read08-2                     | [CSS Layout](https://github.com/BesanElayyan/Reading-notes/blob/main/class-08.md)                                                |  
 | 9                            |                                              |  
 | 10                           |                                              |  
 | 11                           |                                              |  
