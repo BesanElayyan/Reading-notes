@@ -28,7 +28,7 @@
 | Read06-2                     | [JS Object Literals](https://github.com/BesanElayyan/Reading-notes/blob/main/class-06.md)                                |
 | Read07-2                     | [HTML Tables; JS Constructor Functions](https://github.com/BesanElayyan/Reading-notes/blob/main/class-07.md)           |  
 | Read08-2                     | [CSS Layout](https://github.com/BesanElayyan/Reading-notes/blob/main/class-08.md)                                                |  
-| 9                            |                                              |  
+| Read09-2                     | [Forms and JS Events](https://github.com/BesanElayyan/Reading-notes/blob/main/class-09.md)                                             |  
 | 10                           |                                              |  
 | 11                           |                                              |  
 | 12                           |                                              |  
