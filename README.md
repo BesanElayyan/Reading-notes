@@ -30,7 +30,7 @@
 | Read08-2                     | [CSS Layout](https://github.com/BesanElayyan/Reading-notes/blob/main/class-08.md)                                                |  
 | Read09-2                     | [Forms and JS Events](https://github.com/BesanElayyan/Reading-notes/blob/main/class-09.md)                                             |  
 | Read10-2                     | [Debugging](https://github.com/BesanElayyan/Reading-notes/blob/main/class-10.md)                                           |  
-| 11                           |                                              |  
+| Read11-2                     | [Audio, Video, Images](https://github.com/BesanElayyan/Reading-notes/blob/main/class-11.md)                                             |  
 | 12                           |                                              |  
 | 13                           |                                              |  
 | 14                           |                                              |  
